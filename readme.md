@@ -1,7 +1,7 @@
 # Environment set up
 
 1. off the mod `go env -w  GO111MODULE=off`
-2. change to `GPATH` to project directory `go env -w GOPATH=$HOME/coroprove`
+2. change to `GPATH` to project directory `go env -w GOPATH=$HOME/sgpm`
 
 # Usage
 
@@ -9,7 +9,7 @@ This project serves the article: **SGPM: A coroutine scheduling model for wound-
 
 ```shell
 // change root
-cd coroprove
+cd sgpm
 ```
 
 ## Run workloads
